@@ -118,13 +118,19 @@ Explore the resources provided in each section, including tutorials, documentati
 
 Engage with the community by asking questions, sharing insights, and collaborating on projects.
 
+# Contributing
+
+# Function to open a new pull request or submit an issue
 def contribute():
     print("Contributions to this repository are welcome!")
     print("If you have suggestions for improving the learning plan, adding new resources, or fixing issues, please open a pull request or submit an issue.")
 
-
+# Call the function
 contribute()
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
 
 
 ```
