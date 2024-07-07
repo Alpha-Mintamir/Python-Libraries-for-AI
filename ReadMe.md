@@ -1,4 +1,4 @@
-# Python Libraries for AI
+# Pythonn Libraries for AI
 
 Welcome to the "Python Libraries for AI" repository! This repository serves as a comprehensive guide for mastering essential Python libraries used in artificial intelligence (AI) and machine learning (ML) development. Whether you're a beginner or an experienced practitioner, this guide will help you navigate through the essential libraries and tools needed to excel in the field of AI.
 
